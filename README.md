@@ -1,4 +1,4 @@
-# Afame-Technologies
+# Afame-Technologies-Sales Data Analysis with Power BI
 # Sales Data Analysis with Power BI
 
 ## Overview
